@@ -1,0 +1,27 @@
+{
+  "name": "uniswap-price-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pancakeswap-libs/sdk": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "web3": "^4.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perugachiariel75/uniswap-price-fetcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/perugachiariel75/uniswap-price-fetcher/issues"
+  },
+  "homepage": "https://github.com/perugachiariel75/uniswap-price-fetcher/blob/main/README.md"
+}
